@@ -29,6 +29,8 @@ Statistical Computing for Data Management [SAS Data Cleaning & Visualization Pro
 
 Statistical Computing for Simulation Theory [R Studio Shiny App Simulation Project](https://github.com/annarakes/RStudio-ShinyAppSimulation.git)
 
+Methods for Data Analytics [R Studio Data Cleaning & Visualization Replication Project](https://github.com/annarakes/RStudio-DataReplication.git)
+
 
 <h3 align="left">Work Experience:</h3>
 
