@@ -19,10 +19,6 @@
 
 <h3 align="left">Academics:</h3>
 
-<h3 align="left">Work Experience:</h3>
-
-<h3 align="left">Skills:</h3>
-
 <h3 align="left">Projects:</h3>
 
 Computer Science 1 [Python Yahtzee Project](https://github.com/annarakes/Python-Yahtzee.git)
@@ -32,4 +28,10 @@ Computer Science 1 [Python BlackJack Project](https://github.com/annarakes/Pytho
 Statistical Computing for Data Management [SAS Data Cleaning & Visualization Projects](https://github.com/annarakes/SAS-DataCleaning.git)
 
 Statistical Computing for Simulation Theory [R Studio Shiny App Simulation Project](https://github.com/annarakes/RStudio-ShinyAppSimulation.git)
+
+
+<h3 align="left">Work Experience:</h3>
+
+<h3 align="left">Skills:</h3>
+
 
