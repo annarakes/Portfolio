@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **Calculus II, Computer Science II, Discrete Structures**
 
-- 👨‍💻 All of my projects are available at [hereismyportfoliolink.com](hereismyportfoliolink.com)
+- 👨‍💻 All of my projects are available [here](https://github.com/annarakes?tab=repositories)
 
 - 📫 How to reach me **arakes@elon.edu**
 
-- 📄 Resume: [hereismyresumelink](hereismyresumelink)
 
 
 <h3 align="left">Connect with me:</h3>
