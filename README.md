@@ -5,3 +5,6 @@ Elon University
 
 
 ### Work Experience
+
+[LinkedIn](www.linkedin.com/in/annarakes)
+
