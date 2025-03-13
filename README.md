@@ -1,4 +1,3 @@
-logo: images/headshot.jpg
 
 ### Statistics and Computer Science
 
@@ -10,5 +9,4 @@ Elon University
 
 [LinkedIn](www.linkedin.com/in/anna-rakes-a6780129a)
 
-[Headshot](headshot copy.jpg)
 
