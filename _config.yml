@@ -1,4 +1,4 @@
-title-img: images/headshot.jpg
-#logo: images/headshot.jpg
+title: Portfolio
+logo: images/headshot.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
