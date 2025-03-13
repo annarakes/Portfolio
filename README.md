@@ -9,8 +9,6 @@
 
 - 📄 Resume: [hereismyresumelink](hereismyresumelink)
 
-Computer Science 1 [Yahtzee Project](https://github.com/annarakes/Python-Yahtzee.git)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +25,6 @@ Computer Science 1 [Yahtzee Project](https://github.com/annarakes/Python-Yahtzee
 <h3 align="left">Skills:</h3>
 
 <h3 align="left">Projects:</h3>
+
+Computer Science 1 [Yahtzee Project](https://github.com/annarakes/Python-Yahtzee.git)
+
