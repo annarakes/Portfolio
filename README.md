@@ -21,6 +21,8 @@
 
 <h3 align="left">Projects:</h3>
 
+Methods for Data Analytics [R Studio Data Cleaning & Visualization Replication Project](https://github.com/annarakes/RStudio-DataReplication.git)
+
 Computer Science 1 [Python Yahtzee Project](https://github.com/annarakes/Python-Yahtzee.git)
 
 Computer Science 1 [Python BlackJack Project](https://github.com/annarakes/Python-BlackJack.git)
@@ -29,7 +31,6 @@ Statistical Computing for Data Management [SAS Data Cleaning & Visualization Pro
 
 Statistical Computing for Simulation Theory [R Studio Shiny App Simulation Project](https://github.com/annarakes/RStudio-ShinyAppSimulation.git)
 
-Methods for Data Analytics [R Studio Data Cleaning & Visualization Replication Project](https://github.com/annarakes/RStudio-DataReplication.git)
 
 
 <h3 align="left">Work Experience:</h3>
