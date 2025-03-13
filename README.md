@@ -24,3 +24,4 @@
 <h3 align="left">Skills:</h3>
 
 <h3 align="left">Projects:</h3>
+Computer Science 1 [Yahtzee Project](
