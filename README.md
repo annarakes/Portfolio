@@ -1,3 +1,5 @@
+logo: images/headshot.jpg
+
 ### Statistics and Computer Science
 
 ### Education
