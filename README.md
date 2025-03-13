@@ -1,5 +1,3 @@
-
-[LinkedIn](www.linkedin.com/in/anna-rakes-a6780129a)
 <h3 align="center">Statistics and Computer Science Student at Elon University</h3>
 
 - 🌱 I’m currently learning **Calculus II, Computer Science II, Discrete Structures**
