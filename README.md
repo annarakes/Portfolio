@@ -32,3 +32,5 @@ Computer Science 1 [Python BlackJack Project](https://github.com/annarakes/Pytho
 
 Statistical Computing for Data Management [SAS Data Cleaning & Visualization Projects](https://github.com/annarakes/SAS-DataCleaning.git)
 
+Statistical Computing for Simulation Theory [R Studio Shiny App Simulation Project](https://github.com/annarakes/RStudio-ShinyAppSimulation.git)
+
