@@ -1,3 +1,4 @@
+![screenshot](imageFolder/screenshot.png)
 
 ### Statistics and Computer Science
 
