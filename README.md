@@ -26,5 +26,7 @@
 
 <h3 align="left">Projects:</h3>
 
-Computer Science 1 [Yahtzee Project](https://github.com/annarakes/Python-Yahtzee.git)
+Computer Science 1 [Python Yahtzee Project](https://github.com/annarakes/Python-Yahtzee.git)
+Computer Science 1 [Python BlackJack Project](https://github.com/annarakes/Python-BlackJack.git)
+Statistical Computing for Data Management [SAS Data Cleaning & Visualization Projects](https://github.com/annarakes/SAS-DataCleaning.git)
 
