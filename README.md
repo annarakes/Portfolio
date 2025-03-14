@@ -1,6 +1,6 @@
 <h3 align="center">Statistics and Computer Science Student at Elon University</h3>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/annarakes?tab=repositories)
+- 👨‍💻 All of my projects are available **[here](https://github.com/annarakes?tab=repositories)**
 
 - 🌱 I’m currently learning **Calculus II, Computer Science II, Discrete Structures**
 
