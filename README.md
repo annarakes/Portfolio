@@ -1,9 +1,11 @@
 <h1 align="center">Anna Rakes</h1>
 <h3 align="center">Statistics and Computer Science Student at Elon University</h3>
 
+- 👨‍💻 All of my projects are available [here](https://github.com/annarakes?tab=repositories)
+
 - 🌱 I’m currently learning **Calculus II, Computer Science II, Discrete Structures**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/annarakes?tab=repositories)
+- 📝 I'm currently working on my thesis: **A Systematic Review of the Effects of Magnet Schools on Desegregation**
 
 - 📫 How to reach me: **arakes@elon.edu**
 
@@ -13,7 +15,9 @@
 
 
 
-## Elon University, Class of 2026                               GPA: 4.0
+## Elon University, Class of 2026
+
+### GPA: 4.0
 
 **B.S. in Statistics with a concentration in Data Analytics**
 
