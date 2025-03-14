@@ -9,7 +9,7 @@
 - 📫 How to reach me: **arakes@elon.edu**
 
 
-**Connect with me:**
+**Connect with me:** [LinkedIn](www.linkedin.com/in/anna-rakes-a6780129a)
 
 [<img src="images/linkedin.png" width="60" height="60">](www.linkedin.com/in/anna-rakes-a6780129a)
 
