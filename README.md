@@ -1,4 +1,4 @@
-<h3 align="center">Statistics and Computer Science Student at Elon University</h3>
+<h2 align="center">Statistics and Computer Science Student at Elon University</h2>
 
 - 👨‍💻 All of my projects are available **[here](https://github.com/annarakes?tab=repositories)**
 
