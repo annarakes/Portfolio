@@ -7,9 +7,9 @@
 
 - 📫 How to reach me: **arakes@elon.edu**
 
+**Connect with me:**
 
-
-[<img src="images/linkedin.png">](www.linkedin.com/in/anna-rakes-a6780129a)
+[<img src="images/linkedin.png" width="80" height="80">](www.linkedin.com/in/anna-rakes-a6780129a)
 
 
 
@@ -19,13 +19,15 @@
 
 **B.A. in Computer Science**
 
+### Achievements
+
 Honors Fellows Program
 
 Fall 2022-Fall 2024 President’s List 
 
 Mu Sigma Rho National Statistics Honor Society
 
-**Completed Courses:**
+### Completed Courses:
 
 Calculus I, Statistical Modeling, Survey Sampling Methods, Intro to Data Analytics, Methods for Data Analytics, Computer Science I, Statistical Computing Simulation Theory, Statistical Computing & Data Management	
 
