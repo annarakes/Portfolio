@@ -14,12 +14,28 @@
 <a href="https://www.linkedin.com/in/anna-rakes-a6780129a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-rakes-a6780129a" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Academics:</h3>
+## Elon University, Class of 2026                               GPA: 4.0
 
-<h3 align="left">Projects:</h3>
+**B.S. in Statistics with a concentration in Data Analytics**
+
+**B.A. in Computer Science**
+
+Honors Fellows Program
+
+Fall 2022-Fall 2024 President’s List 
+
+Mu Sigma Rho National Statistics Honor Society
+
+**Completed Courses:**
+
+Calculus I, Statistical Modeling, Survey Sampling Methods, Intro to Data Analytics, Methods for Data Analytics, Computer Science I, Statistical Computing Simulation Theory, Statistical Computing & Data Management	
+
+### Skills
+
+Python, Java, R-Studio, SAS, Excel
+
+## Projects
 
 **[R Studio Data Cleaning & Visualization Replication Project](https://github.com/annarakes/RStudio-DataReplication.git)**
 
@@ -44,9 +60,5 @@ The objective of this project was to analyze pain severity trends and treatment 
 
 
 
-
-<h3 align="left">Work Experience:</h3>
-
-<h3 align="left">Skills:</h3>
 
 
