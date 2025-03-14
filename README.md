@@ -9,7 +9,7 @@
 
 **Connect with me:**
 
-[<img src="images/linkedin.png" width="80" height="80">](www.linkedin.com/in/anna-rakes-a6780129a)
+[<img src="images/linkedin.png" width="60" height="60">](www.linkedin.com/in/anna-rakes-a6780129a)
 
 
 
