@@ -9,7 +9,7 @@
 
 
 
-[<img src="img/myImage.png">](http://example.com/)
+[<img src="images/linkedin.png">](www.linkedin.com/in/anna-rakes-a6780129a)
 
 
 
