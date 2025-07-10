@@ -9,9 +9,9 @@
 - 📫 How to reach me: **annarakes22@gmail.com**
 
 
-**Connect with me:** [www.linkedin.com/in/anna-rakes-a6780129a](www.linkedin.com/in/anna-rakes-a6780129a)
+**Connect with me:**
 
-[<img src="images/linkedin.png" width="60" height="60">](www.linkedin.com/in/anna-rakes-a6780129a)
+[<img src="images/linkedin.png" width="60" height="60">](https://www.linkedin.com/in/anna-rakes-a6780129a)
 
 
 
