@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available **[here](https://github.com/annarakes?tab=repositories)**
 
-- 🌱 I’m currently learning **Calculus II, Computer Science II, Discrete Structures**
+- 🌱 I’m currently learning **Database Systems, Algorithm Analysis, Software Design, and Artificial Intelligence**
 
 - 📝 I'm currently working on my thesis: **A Systematic Review of the Effects of Magnet Schools on Desegregation**
 
@@ -27,17 +27,17 @@
 
 Honors Fellows Program
 
-Fall 2022-Fall 2024 President’s List 
+Fall 2022-Spring 2025 President’s List 
 
-Mu Sigma Rho National Statistics Honor Society
+President of Mu Sigma Rho National Statistics Honor Society
 
 ### Completed Courses:
 
-Calculus I, Statistical Modeling, Survey Sampling Methods, Intro to Data Analytics, Methods for Data Analytics, Computer Science I, Statistical Computing Simulation Theory, Statistical Computing & Data Management	
+Calculus I and II, Computer Science I and II, Statistical Modeling, Survey Sampling Methods, Intro to Data Analytics, Methods for Data Analytics, Statistical Computing Simulation Theory, Statistical Computing & Data Management, Discrete Structures	
 
 ### Skills
 
-Python, Java, R-Studio, SAS, Excel
+Python, Java, R-Studio, SAS, Excel, Power BI
 
 ## Projects
 
