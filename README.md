@@ -6,7 +6,7 @@
 
 - 📝 I'm currently working on my thesis: **A Systematic Review of the Effects of Magnet Schools on Desegregation**
 
-- 📫 How to reach me: **arakes@elon.edu**
+- 📫 How to reach me: **annarakes22@gmail.com**
 
 
 **Connect with me:** [www.linkedin.com/in/anna-rakes-a6780129a](www.linkedin.com/in/anna-rakes-a6780129a)
