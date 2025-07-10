@@ -42,6 +42,7 @@ Python, Java, R-Studio, SAS, Excel, Power BI
 ## Projects
 
 **[Java Mastermind Project](https://github.com/annarakes/Java-Mastermind.git)**
+
 This project implements the classic Mastermind game in Java using object-oriented design. Key components include classes for pegs, peg lists, feedback logic, game history, and gameplay management. It features algorithmic matching of guesses to the secret code with hit/partial feedback, uses ArrayLists for dynamic data handling, and manages command-line input/output for an interactive experience. Developed in IntelliJ IDEA, the project demonstrates strong skills in Java programming, data structures, algorithm design, and state management.
 
 **[R Studio Data Cleaning & Visualization Replication Project](https://github.com/annarakes/RStudio-DataReplication.git)**
