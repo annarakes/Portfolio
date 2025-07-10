@@ -41,6 +41,9 @@ Python, Java, R-Studio, SAS, Excel, Power BI
 
 ## Projects
 
+**Java Mastermind Project**
+This project implements the classic Mastermind game in Java using object-oriented design. Key components include classes for pegs, peg lists, feedback logic, game history, and gameplay management. It features algorithmic matching of guesses to the secret code with hit/partial feedback, uses ArrayLists for dynamic data handling, and manages command-line input/output for an interactive experience. Developed in IntelliJ IDEA, the project demonstrates strong skills in Java programming, data structures, algorithm design, and state management.
+
 **[R Studio Data Cleaning & Visualization Replication Project](https://github.com/annarakes/RStudio-DataReplication.git)**
 
 This project aimed to replicate Comeau’s analysis without access to the cleaned dataset. Using only the final report, I determined the necessary data cleaning steps for the GSS dataset to match Comeau’s results. Using R-Studio, I focused on race, sex, marital status, geographic mobility, and family contact patterns. I filtered for 2002 respondents aged 18+, selected relevant variables, and created dummy variables for key demographics. Family-related variables were recoded into contact indexes. After cleaning and converting data, I ran regression models to predict family contact frequencies. My results closely matched Comeau’s, with minor discrepancies due to race distribution and sample size differences.
@@ -58,7 +61,7 @@ The objective of this project was to develop a Yahtzee game, including the core 
 
 The objective of this project was to develop a text-based Blackjack game where the player competes against a dealer or a computer. I implemented key game mechanics such as deck creation, card shuffling, dealing, score calculation, and turn management. I began by creating a deck of cards using a combination of suits and values, then shuffled it randomly. I programmed functions to deal cards to players, calculate scores based on the card values, and determine whether players or the dealer should hit or stand based on their score. Additionally, I created a system to determine the winner based on the final scores and incorporated replay functionality. The game supports both 1-player and 2-player modes, offering an engaging, interactive experience with decision-making for the user.
 
-**[SAS Data Cleaning & Visualization Projects](https://github.com/annarakes/SAS-DataCleaning.git)**
+**[SAS Data Cleaning & Visualization Project](https://github.com/annarakes/SAS-DataCleaning.git)**
 
 The objective of this project was to analyze pain severity trends and treatment effectiveness in a clinical study using patient baseline and follow-up data. As part of this data analytics project, I focused on importing and cleaning the dataset, handling missing values, and creating new variables such as BMI, pain severity scores, and treatment effects. I performed exploratory data analysis to uncover insights into how pain severity varied by race, gender, and treatment group. Using SAS, I created visualizations like box plots to show baseline pain severity distributions and line plots to track pain severity trends over time across different treatment groups. Key steps included merging datasets, calculating summary statistics, and transforming the data into a clean format for further analysis, with a final goal of preparing a comprehensive dataset that could be used for deeper statistical analysis or predictive modeling.
 
